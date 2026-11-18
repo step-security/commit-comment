@@ -29,13 +29,13 @@
   },
   "homepage": "https://github.com/step-security/commit-comment#readme",
   "dependencies": {
-    "@actions/core": "^1.11.1",
-    "@actions/github": "^6.0.1",
+    "@actions/core": "^3.0.1",
+    "@actions/github": "^9.1.1",
     "axios": "^1.21.1"
   },
   "devDependencies": {
     "@types/jest": "^30.0.0",
-    "@types/node": "^18.19.130",
+    "@types/node": "^22.0.0",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.62.0",
     "@vercel/ncc": "^0.45.0",
